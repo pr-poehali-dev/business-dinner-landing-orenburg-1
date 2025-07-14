@@ -53,7 +53,7 @@ const Index = () => {
             </div>
             <div className="relative">
               <img 
-                src="/img/f13ce532-9ab2-43c4-878a-b218aaa10967.jpg" 
+                src="/img/68f1204e-b144-4f62-97b1-a9e776129d87.jpg" 
                 alt="Бизнес-ужин nanoCAD" 
                 className="rounded-lg shadow-xl"
               />
@@ -81,7 +81,7 @@ const Index = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="/img/3eabff06-1e8e-4a29-82f7-20ee125c6e54.jpg" 
+                src="/img/2e1a01a2-7ba3-48a9-a87a-99bdb7faa6d7.jpg" 
                 alt="nanoCAD интерфейс" 
                 className="rounded-lg shadow-lg"
               />
